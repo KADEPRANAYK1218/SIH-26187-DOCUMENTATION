@@ -1,38 +1,47 @@
-# References
+# VAJRA — References
 
-## 1. Research Papers & Documentation
+## Defence, AI/ML, Command & Control
 
-- **Smart India Hackathon (SIH) – Official Portal**  
-  🔗 [sih.gov.in](https://www.sih.gov.in/)
+1. **Defence Research and Development Organisation (DRDO), Government of India — AI/ML Technology**  
+   Official DRDO material covering AI/ML applications including image and video analytics, satellite sensor data processing, natural language processing, and explainable AI.  
+   https://drdo.gov.in/drdo/en/offerings/technology-foresight/aiml-technology
 
-- **Smart India Hackathon – Official Problem Statements & Guidelines**  
-  🔗 [sih.gov.in](https://www.sih.gov.in/)
+2. **DRDO — Computational Systems & Cyber Security**  
+   Official DRDO information covering artificial intelligence, command and control, networking, information security, and cyber-security technologies for defence systems.  
+   https://drdo.gov.in/drdo/en/organisation/technology-cluster/micro-electronic-devices-computational-systems-cyber-systems
 
-- **ONVIF – IP-Based Physical Security & Video Interoperability**  
-  🔗 [onvif.org](https://www.onvif.org/)
+3. **DRDO — C4ISR Technologies**  
+   Official DRDO material related to Command, Control, Communications, Computers, Intelligence, Surveillance and Reconnaissance (C4ISR), including AI/ML-based command-and-control applications and geospatial technologies.  
+   https://drdo.gov.in/drdo/en/researcher?page=26
+
+4. **DRDO — Wargaming & Multi-Domain Operations**  
+   Official DRDO technology information covering AI/ML-based simulation, geospatial intelligence modelling, Big Data, machine learning and cloud-based technologies for multi-domain operations.  
+   https://drdo.gov.in/drdo/en/offerings/technology-foresight/wargaming
+
+5. **DRDO — Unmanned Ground Vehicle (UGV) Technologies**  
+   Official DRDO material covering AI-based perception, navigation, autonomous systems and related defence technologies.  
+   https://drdo.gov.in/drdo/en/offerings/technology-foresight/ugv
+
+## Additional Official Reference
+
+6. **Ministry of Defence / DRDO — Defence AI and Technology Developments**  
+   Official Government of India and DRDO material on the application of artificial intelligence and advanced technologies in defence, including surveillance, autonomous systems, analytics and command decision-support applications.  
+   https://drdo.gov.in/
 
 ---
 
-## 2. Tools & Frameworks
+## Relevance to VAJRA
 
-- **OpenCV – Computer Vision Library**  
-  🔗 [opencv.org](https://opencv.org/)
+These references support the technical concepts used in the **VAJRA: AI-Powered Defence Command & Decision Support System** prototype, including:
 
-- **React Documentation**  
-  🔗 [react.dev](https://react.dev/)
+- AI/ML-based intelligence and analytics
+- Command and control
+- C4ISR concepts
+- Geospatial and satellite-data analysis
+- Surveillance and monitoring
+- Multi-domain operations
+- Cybersecurity
+- Autonomous and unmanned systems
+- Decision-support capabilities
 
-- **Node.js Documentation**  
-  🔗 [nodejs.org](https://nodejs.org/)
-
----
-
-## 3. CCTV, Video Analytics & AI
-
-- **ONVIF Profile S – Basic Video Streaming**  
-  🔗 [onvif.org/profiles/profile-s](https://www.onvif.org/profiles/profile-s/)
-
-- **OpenCV – Computer Vision, Video Processing & Object Tracking**  
-  🔗 [docs.opencv.org](https://docs.opencv.org/)
-
-- **Ultralytics YOLO – Object Detection & Tracking**  
-  🔗 [docs.ultralytics.com](https://docs.ultralytics.com/)
+> **Note:** VAJRA is a prototype/conceptual system. The references above are used to establish the relevant technology and defence-domain context; they do not imply that VAJRA is an official DRDO, Indian Armed Forces, or Government of India system.
