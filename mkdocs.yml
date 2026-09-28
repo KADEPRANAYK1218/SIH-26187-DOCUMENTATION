@@ -1,0 +1,38 @@
+site_name: VAJRA Documentation
+site_description: SIH 26187 - AI-Based Intelligent Video Analytics Platform for Border Surveillance using Existing CCTV Infrastructure
+site_author: Team HEXAVAULT
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - System Overview: system-overview.md
+  - Project Summary: project-summary.md
+  - Project Architecture: project-architecture.md
+  - References: references.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - fenced_code
+  - attr_list
+  - tables
+  - admonition
